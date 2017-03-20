@@ -8,4 +8,4 @@ By changing/adjusting the number of exponential (n) through the Shiny app develo
 - server.R
 
 # URL
-For Shiny application, you may visit:
+For Shiny application, you may visit: https://sweeteefu.shinyapps.io/DevelopingDataProductWeek4Assignment/
